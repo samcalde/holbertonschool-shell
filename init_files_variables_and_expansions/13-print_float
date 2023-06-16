@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "%.2f\n" $NUM
+echo -e %.2f $NUM "\n"
